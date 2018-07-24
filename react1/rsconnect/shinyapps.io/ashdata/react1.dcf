@@ -1,0 +1,12 @@
+name: react1
+title: react1
+username:
+account: ashdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 386861
+bundleId: 1496538
+url: https://ashdata.shinyapps.io/react1/
+when: 1532415032.30227
+asMultiple: FALSE
+asStatic: FALSE
